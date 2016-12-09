@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: stockholmworkshop
-  host: stockholmworkshop
+  name: osloworkshop
+  host: osloworkshop
   disk_quota: 1024M
